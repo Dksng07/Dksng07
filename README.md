@@ -1,16 +1,23 @@
-## Hi there 👋
+![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
 
-<!--
-**Dksng07/Dksng07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+नमस्ते (Namaste), I Am Dheeraj!<br>
+</h1>
+<div align="center">
+ 
+ 🔭 I’m currently working on *FullStack Projects*
+ 
+ 🌱 I’m currently learning **Docker, Backend Technologies**
 
-Here are some ideas to get you started:
+ </div>
+ 
+<div align="center"> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+  <a href="mailto:dks197971@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/dksng/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
